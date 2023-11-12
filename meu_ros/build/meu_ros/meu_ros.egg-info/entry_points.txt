@@ -1,0 +1,3 @@
+[console_scripts]
+nav2_test = meu_ros.nav2_test:main
+nav_waypoints = meu_ros.nav_waypoints:main
